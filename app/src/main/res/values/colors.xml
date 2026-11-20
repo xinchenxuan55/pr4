@@ -1,0 +1,13 @@
+<resources>
+    <color name="background">#F4F1EA</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="ink">#0B1F33</color>
+    <color name="muted">#526272</color>
+    <color name="accent">#0B7A75</color>
+    <color name="accent_dark">#075E5A</color>
+    <color name="result_background">#0B1F33</color>
+    <color name="result_label">#9FE3DC</color>
+    <color name="result_caption">#C7D3DE</color>
+    <color name="border">#D8D4C9</color>
+    <color name="white">#FFFFFF</color>
+</resources>

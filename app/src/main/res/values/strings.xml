@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Model Monitor</string>
+    <string name="eyebrow">CI/CD MODEL DEMO</string>
+    <string name="title">Model Monitor</string>
+    <string name="subtitle">A practical mobile view of the salary model released from the automated data pipeline.</string>
+    <string name="input_label">Years of professional experience</string>
+    <string name="input_hint">For example, 4.5</string>
+    <string name="calculate">Calculate estimate</string>
+    <string name="result_label">ESTIMATED ANNUAL SALARY</string>
+    <string name="no_estimate">No estimate yet</string>
+    <string name="result_placeholder">Enter experience and run the model. All calculations work offline.</string>
+    <string name="why_title">Why this app is useful</string>
+    <string name="why_body">It turns a versioned regression model into an offline field tool. Students and stakeholders can test scenarios without notebooks or a backend, while the visible model metadata supports auditability and reproducible demonstrations.</string>
+    <string name="model_meta">MODEL v3  |  LINEAR REGRESSION\nCOEFFICIENT  9461.46662842\nINTERCEPT    25746.489383688757\nSOURCE       GitHub Actions release</string>
+</resources>
